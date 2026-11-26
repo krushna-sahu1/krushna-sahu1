@@ -1,0 +1,36 @@
+name: terminal
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: readme-writer
+  cancel-in-progress: false
+
+jobs:
+  answer:
+    if: startsWith(github.event.issue.title, '/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Answer the command
+        run: python scripts/terminal.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+      - name: Log the session
+        run: |
+          git config user.name "krushna-sahu1"
+          git config user.email "174834492+krushna-sahu1@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "terminal session" && git push
