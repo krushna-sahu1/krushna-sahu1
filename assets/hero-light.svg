@@ -19,7 +19,7 @@
 <rect x="0.5" y="0.5" width="1199" height="439" rx="16" fill="#FBFAF6" stroke="#E3E0D6"/>
 <rect x="1" y="1" width="1198" height="438" rx="16" fill="url(#dots)" opacity=".7"/>
 <text x="48" y="46" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="14" font-weight="400" fill="#5E6773" text-anchor="start" >krushna-sahu1 <tspan fill="#B9BDC4">/</tspan> field log</text>
-<text x="1152" y="46" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="14" font-weight="400" fill="#5E6773" text-anchor="end" >last sync 27 nov · 07:15 ist <tspan fill="#b9bdc4">·</tspan> day shift</text>
+<text x="1152" y="46" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="14" font-weight="400" fill="#5E6773" text-anchor="end" >last sync 27 nov · 22:13 ist <tspan fill="#b9bdc4">·</tspan> night shift — agents on watch</text>
 <line x1="48" y1="66" x2="1152" y2="66" stroke="#E3E0D6"/>
 <text x="46" y="158" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#141920" text-anchor="start" letter-spacing="-2">Krushna Sahu</text>
 <text x="48" y="210" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="500" fill="#141920" text-anchor="start" >I build AI agents that <tspan fill="#C26400">ask before they act</tspan>.</text>
@@ -50,6 +50,6 @@
 <line x1="48" y1="362" x2="1152" y2="362" stroke="#E3E0D6"/>
 <text x="48" y="404" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="15" font-weight="400" fill="#5E6773" text-anchor="start" ><tspan fill="#078A68" class="breathe">●</tspan> 6 agents in the fleet</text>
 <text x="318" y="404" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="15" font-weight="400" fill="#5E6773" text-anchor="start" >6 live on vercel</text>
-<text x="520" y="404" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="15" font-weight="400" fill="#5E6773" text-anchor="start" >249 contributions / 12 mo</text>
-<text x="800" y="404" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="15" font-weight="400" fill="#5E6773" text-anchor="start" >last push → <tspan fill="#141920">lensbite</tspan> · 4h ago</text>
+<text x="520" y="404" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="15" font-weight="400" fill="#5E6773" text-anchor="start" >250 contributions / 12 mo</text>
+<text x="800" y="404" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="15" font-weight="400" fill="#5E6773" text-anchor="start" >last push → <tspan fill="#141920">lensbite</tspan> · 19h ago</text>
 </svg>

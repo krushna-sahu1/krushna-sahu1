@@ -63,11 +63,11 @@ sending, paying, approving, logging. That line is drawn in amber on every card b
 #### `now`
 
 <!-- NOW:START -->
-` 4h ago`  [**lensbite**](https://github.com/krushna-sahu1/lensbite)<br>
-` 5h ago`  [**agentic_dish**](https://github.com/krushna-sahu1/agentic_dish)<br>
-`16d ago`  [**unified-inbox**](https://github.com/krushna-sahu1/unified-inbox)
+`19h ago`  [**lensbite**](https://github.com/krushna-sahu1/lensbite)<br>
+`20h ago`  [**agentic_dish**](https://github.com/krushna-sahu1/agentic_dish)<br>
+`17d ago`  [**unified-inbox**](https://github.com/krushna-sahu1/unified-inbox)
 
-<sub>updated 27 Nov 2026, 07:15 IST by <code>scripts/build.py</code></sub>
+<sub>updated 27 Nov 2026, 22:13 IST by <code>scripts/build.py</code></sub>
 <!-- NOW:END -->
 
 </td>
